@@ -1,0 +1,117 @@
+2024-02-25 19:55:04.289 [info] Test server listening.
+2024-02-25 19:55:04.298 [info] > conda info --json
+2024-02-25 19:55:04.299 [info] Python 解释器路径: /home/hive/.conda/envs/randlanetTF2/bin/python
+2024-02-25 19:55:04.473 [info] Found: /usr/bin/python --> /usr/bin/python3.8
+2024-02-25 19:55:04.473 [info] Found: /usr/bin/python2 --> /usr/bin/python2.7
+2024-02-25 19:55:04.473 [info] Found: /usr/bin/python2.7 --> /usr/bin/python2.7
+2024-02-25 19:55:04.473 [info] Found: /usr/bin/python3 --> /usr/bin/python3.8
+2024-02-25 19:55:04.474 [info] Found: /usr/bin/python3.5 --> /usr/bin/python3.5
+2024-02-25 19:55:04.474 [info] Found: /usr/bin/python3.6 --> /usr/bin/python3.6
+2024-02-25 19:55:04.474 [info] Found: /usr/bin/python3.8 --> /usr/bin/python3.8
+2024-02-25 19:55:04.475 [info] Found: /usr/include/python3.5 --> /usr/include/python3.5m
+2024-02-25 19:55:04.475 [info] Found: /usr/include/python3.6 --> /usr/include/python3.6m
+2024-02-25 19:55:04.486 [info] Found: /home/hive/miniconda3/bin/python --> /home/hive/miniconda3/bin/python3.6
+2024-02-25 19:55:04.487 [info] Found: /home/hive/miniconda3/bin/python3 --> /home/hive/miniconda3/bin/python3.6
+2024-02-25 19:55:04.487 [info] Found: /home/hive/miniconda3/bin/python3.6 --> /home/hive/miniconda3/bin/python3.6
+2024-02-25 19:55:04.511 [info] > /usr/bin/python -I ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2024-02-25 19:55:04.524 [info] > /usr/bin/python2 -I ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2024-02-25 19:55:04.535 [warning] [Error: Command failed: /usr/bin/python2 -I /root/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py /root/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+Unknown option: -I
+usage: /usr/bin/python2 [option] ... [-c cmd | -m mod | file | -] [arg] ...
+Try `python -h' for more information.
+
+	at ChildProcess.exithandler (node:child_process:409:12)
+	at ChildProcess.emit (node:events:513:28)
+	at maybeClose (node:internal/child_process:1121:16)
+	at Socket.<anonymous> (node:internal/child_process:479:11)
+	at Socket.emit (node:events:513:28)
+	at Pipe.<anonymous> (node:net:757:14)] {
+  code: 2,
+  killed: false,
+  signal: null,
+  cmd: '/usr/bin/python2 -I /root/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py /root/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py'
+}
+2024-02-25 19:55:04.535 [error] Support for Python 2.7 has been dropped by the Python extension so certain features may not work, upgrade to using Python 3.
+2024-02-25 19:55:04.546 [info] > /usr/bin/python2 ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2024-02-25 19:55:04.558 [info] > /usr/bin/python3.5 -I ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2024-02-25 19:55:04.567 [info] > /usr/bin/python3.6 -I ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2024-02-25 19:55:04.576 [info] > conda run -n randlanetTF2 --no-capture-output python ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/printEnvVariables.py
+2024-02-25 19:55:04.576 [info] shell: bash
+2024-02-25 19:55:04.714 [info] > /usr/include/python3.5 -I ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2024-02-25 19:55:04.727 [error] [Error: Command failed: /usr/include/python3.5 -I /root/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py /root/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+/bin/sh: /usr/include/python3.5：是一个目录
+
+	at ChildProcess.exithandler (node:child_process:409:12)
+	at ChildProcess.emit (node:events:513:28)
+	at maybeClose (node:internal/child_process:1121:16)
+	at Socket.<anonymous> (node:internal/child_process:479:11)
+	at Socket.emit (node:events:513:28)
+	at Pipe.<anonymous> (node:net:757:14)] {
+  code: 126,
+  killed: false,
+  signal: null,
+  cmd: '/usr/include/python3.5 -I /root/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py /root/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py'
+}
+2024-02-25 19:55:04.748 [info] > /home/hive/.conda/envs/3DBonet2/bin/python -I ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2024-02-25 19:55:04.769 [info] > /home/hive/.conda/envs/OnlineRandomForest/bin/python -I ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2024-02-25 19:55:04.778 [info] > /home/hive/.conda/envs/RSPrompter/bin/python -I ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2024-02-25 19:55:04.797 [info] > /home/hive/.conda/envs/dmodel/bin/python -I ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2024-02-25 19:55:04.805 [info] > /home/hive/.conda/envs/fno/bin/python -I ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2024-02-25 19:55:04.824 [info] > /home/hive/.conda/envs/mitsuba/bin/python -I ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2024-02-25 19:55:04.835 [info] > /home/hive/.conda/envs/mprm-tf2.4/bin/python -I ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2024-02-25 19:55:04.856 [info] > /home/hive/.conda/envs/nerf/bin/python -I ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2024-02-25 19:55:04.860 [info] > /home/hive/.conda/envs/pointnet/bin/python -I ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2024-02-25 19:55:04.874 [info] > /home/hive/.conda/envs/pytorch3d/bin/python -I ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2024-02-25 19:55:04.887 [info] > /home/hive/.conda/envs/randlanetTF2/bin/python -I ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2024-02-25 19:55:04.903 [info] > /home/hive/.conda/envs/reconstruct/bin/python -I ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2024-02-25 19:55:04.914 [info] > /home/hive/miniconda3/bin/python -I ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2024-02-25 19:55:04.933 [info] > /usr/include/python3.6 -I ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2024-02-25 19:55:04.935 [error] [Error: Command failed: /usr/include/python3.6 -I /root/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py /root/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+/bin/sh: /usr/include/python3.6：是一个目录
+
+	at ChildProcess.exithandler (node:child_process:409:12)
+	at ChildProcess.emit (node:events:513:28)
+	at maybeClose (node:internal/child_process:1121:16)
+	at Socket.<anonymous> (node:internal/child_process:479:11)
+	at Socket.emit (node:events:513:28)
+	at Pipe.<anonymous> (node:net:757:14)] {
+  code: 126,
+  killed: false,
+  signal: null,
+  cmd: '/usr/include/python3.6 -I /root/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py /root/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py'
+}
+2024-02-25 19:55:06.737 [info] > /usr/include/python3.5 -I ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2024-02-25 19:55:06.739 [error] [Error: Command failed: /usr/include/python3.5 -I /root/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py /root/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+/bin/sh: /usr/include/python3.5：是一个目录
+
+	at ChildProcess.exithandler (node:child_process:409:12)
+	at ChildProcess.emit (node:events:513:28)
+	at maybeClose (node:internal/child_process:1121:16)
+	at Socket.<anonymous> (node:internal/child_process:479:11)
+	at Socket.emit (node:events:513:28)
+	at Pipe.<anonymous> (node:net:757:14)] {
+  code: 126,
+  killed: false,
+  signal: null,
+  cmd: '/usr/include/python3.5 -I /root/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py /root/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py'
+}
+2024-02-25 19:55:06.951 [info] > /usr/include/python3.6 -I ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2024-02-25 19:55:06.953 [error] [Error: Command failed: /usr/include/python3.6 -I /root/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py /root/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+/bin/sh: /usr/include/python3.6：是一个目录
+
+	at ChildProcess.exithandler (node:child_process:409:12)
+	at ChildProcess.emit (node:events:513:28)
+	at maybeClose (node:internal/child_process:1121:16)
+	at Socket.<anonymous> (node:internal/child_process:479:11)
+	at Socket.emit (node:events:513:28)
+	at Pipe.<anonymous> (node:net:757:14)] {
+  code: 126,
+  killed: false,
+  signal: null,
+  cmd: '/usr/include/python3.6 -I /root/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py /root/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py'
+}
+2024-02-25 19:55:07.930 [info] 正在启动 Pylance 语言服务器。
+2024-02-25 19:55:15.357 [info] Discover tests for workspace name: undefined - uri: /root/data/GuYuXuan/RandLA-Net/vscode/User/History/5b689622/b0xa.py
+2024-02-25 19:55:49.699 [info] Discover tests for workspace name: RandLA-Net - uri: /root/data/GuYuXuan/RandLA-Net/utils/data_prepare_SensatUrban.py
+2024-02-25 20:26:12.802 [info] Discover tests for workspace name: undefined - uri: /root/data/GuYuXuan/RandLA-Net/vscode/User/History/2f423a59/7smF.py
+2024-02-25 20:27:24.675 [info] Discover tests for workspace name: undefined - uri: /root/data/GuYuXuan/RandLA-Net/vscode/User/History/-c07b810/O8zV.py

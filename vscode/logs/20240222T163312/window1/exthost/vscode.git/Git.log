@@ -1,0 +1,51 @@
+2024-02-22 16:33:14.347 [info] 日志级别: Info
+2024-02-22 16:33:14.347 [info] 正在验证在以下位置找到的 git: "git"
+2024-02-22 16:33:14.347 [info] 将使用位于 "2.17.1" 的 Git "git"
+2024-02-22 16:33:14.347 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-22 16:33:14.347 [info] fatal: 不是一个 git 仓库（或者任何父目录）：.git
+2024-02-22 16:33:14.347 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-22 16:33:14.347 [info] fatal: 不是一个 git 仓库（或者任何父目录）：.git
+2024-02-22 16:33:14.356 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-22 16:33:14.356 [info] fatal: 不是一个 git 仓库（或者任何父目录）：.git
+2024-02-22 16:33:14.376 [info] > git rev-parse --show-toplevel [10ms]
+2024-02-22 16:33:14.376 [info] fatal: 不是一个 git 仓库（或者任何父目录）：.git
+2024-02-22 16:33:14.387 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-22 16:33:14.387 [info] fatal: 不是一个 git 仓库（或者任何父目录）：.git
+2024-02-22 16:33:14.400 [info] > git rev-parse --show-toplevel [3ms]
+2024-02-22 16:33:14.400 [info] fatal: 不是一个 git 仓库（或者任何父目录）：.git
+2024-02-22 16:33:14.404 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-22 16:33:14.404 [info] fatal: 不是一个 git 仓库（或者任何父目录）：.git
+2024-02-22 16:33:14.415 [info] > git rev-parse --show-toplevel [6ms]
+2024-02-22 16:33:14.416 [info] fatal: 不是一个 git 仓库（或者任何父目录）：.git
+2024-02-22 16:33:14.429 [info] > git rev-parse --show-toplevel [9ms]
+2024-02-22 16:33:14.429 [info] fatal: 不是一个 git 仓库（或者任何父目录）：.git
+2024-02-22 16:33:40.968 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-22 16:33:40.968 [info] fatal: 不是一个 git 仓库（或者任何父目录）：.git
+2024-02-22 16:34:52.138 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-22 16:34:52.138 [info] fatal: 不是一个 git 仓库（或者任何父目录）：.git
+2024-02-22 16:35:27.004 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-22 16:35:27.004 [info] fatal: 不是一个 git 仓库（或者任何父目录）：.git
+2024-02-22 16:35:31.024 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-22 16:35:31.024 [info] fatal: 不是一个 git 仓库（或者任何父目录）：.git
+2024-02-22 16:37:22.016 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-22 16:37:22.016 [info] fatal: 不是一个 git 仓库（或者任何父目录）：.git
+2024-02-22 16:39:59.754 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-22 16:39:59.754 [info] fatal: 不是一个 git 仓库（或者任何父目录）：.git
+2024-02-22 16:43:12.046 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-22 16:43:12.046 [info] fatal: 不是一个 git 仓库（或者任何父目录）：.git
+2024-02-22 18:56:18.075 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-22 18:56:18.075 [info] fatal: 不是一个 git 仓库（或者任何父目录）：.git
+2024-02-22 18:56:23.395 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-22 18:56:23.395 [info] fatal: 不是一个 git 仓库（或者任何父目录）：.git
+2024-02-22 18:56:28.764 [info] > git rev-parse --show-toplevel [3ms]
+2024-02-22 18:56:28.764 [info] fatal: 不是一个 git 仓库（或者任何父目录）：.git
+2024-02-22 18:56:29.289 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-22 18:56:29.289 [info] fatal: 不是一个 git 仓库（或者任何父目录）：.git
+2024-02-22 18:57:44.065 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-22 18:57:44.065 [info] fatal: 不是一个 git 仓库（或者任何父目录）：.git
+2024-02-22 18:57:59.896 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-22 18:57:59.896 [info] fatal: 不是一个 git 仓库（或者任何父目录）：.git
+2024-02-22 19:38:59.982 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-22 19:38:59.982 [info] fatal: 不是一个 git 仓库（或者任何父目录）：.git
+2024-02-22 19:41:07.020 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-22 19:41:07.020 [info] fatal: 不是一个 git 仓库（或者任何父目录）：.git

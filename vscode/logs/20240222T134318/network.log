@@ -1,0 +1,7 @@
+2024-02-22 13:43:19.669 [error] electron #1: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_PROXY_CONNECTION_FAILED
+2024-02-22 13:43:19.801 [error] electron #2: https://update.code.visualstudio.com/api/update/linux-x64/stable/6c3e3dba23e8fadc360aed75ce363ba185c49794 - error undefined net::ERR_PROXY_CONNECTION_FAILED
+2024-02-22 13:43:21.841 [error] electron #3: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_PROXY_CONNECTION_FAILED
+2024-02-22 13:43:22.045 [error] electron #4: https://update.code.visualstudio.com/api/update/linux-x64/stable/6c3e3dba23e8fadc360aed75ce363ba185c49794 - error undefined net::ERR_PROXY_CONNECTION_FAILED
+2024-02-22 13:43:22.046 [error] browser #1: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST XHR failed
+2024-02-22 13:43:22.697 [error] browser #2: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST XHR failed
+2024-02-22 13:43:48.972 [error] electron #5: https://update.code.visualstudio.com/api/update/linux-x64/stable/6c3e3dba23e8fadc360aed75ce363ba185c49794 - error undefined net::ERR_PROXY_CONNECTION_FAILED

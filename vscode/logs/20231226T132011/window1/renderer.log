@@ -1,0 +1,10 @@
+2023-12-26 13:20:14.699 [info] [perf] Render performance baseline is 35ms
+2023-12-26 13:20:14.741 [error] Failed to establish a socket connection to proxies: ["PROXY 127.0.0.1:7890/"]: Error: Failed to establish a socket connection to proxies: ["PROXY 127.0.0.1:7890/"]
+	at _PacProxyAgent.<anonymous> (/usr/share/code/resources/app/node_modules.asar/@vscode/proxy-agent/out/agent.js:132:19)
+	at Generator.throw (<anonymous>)
+	at rejected (/usr/share/code/resources/app/node_modules.asar/@vscode/proxy-agent/out/agent.js:6:65)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-12-26 13:34:02.630 [error] Cannot read properties of undefined (reading 'data'): TypeError: Cannot read properties of undefined (reading 'data')
+	at /root/.vscode/extensions/ms-python.vscode-pylance-2023.12.1/dist/extension.bundle.js:1:139734
+	at _0x1be708 (/root/.vscode/extensions/ms-python.vscode-pylance-2023.12.1/dist/extension.bundle.js:1:152918)
+	at async ce.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:50188)

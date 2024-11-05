@@ -1,0 +1,48 @@
+2024-03-31 16:08:15.697 [info] Extension host with pid 18464 started
+2024-03-31 16:08:15.697 [info] Skipping acquiring lock for /root/data/GuYuXuan/RandLA-Net/vscode/User/workspaceStorage/e5d1b27dce419bc30dab4d2f8666d65f.
+2024-03-31 16:08:15.788 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-03-31 16:08:15.788 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2024-03-31 16:08:15.789 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+2024-03-31 16:08:15.952 [warning] Using default string since no string found in i18n bundle that has the key: The security certificate used by server was not issued by a trusted certificate authority.
+This may indicate an attempt to steal your information.
+2024-03-31 16:08:15.952 [warning] Using default string since no string found in i18n bundle that has the key: The security certificate used by server has expired.
+This may indicate an attempt to steal your information.
+2024-03-31 16:08:15.953 [warning] Using default string since no string found in i18n bundle that has the key: If you have not installed xelatex (TeX), you will need to do so before you can export to PDF. For further instructions, please see https://nbconvert.readthedocs.io/en/latest/install.html#installing-tex. 
+To avoid installing xelatex (TeX), you might want to try exporting to HTML and using your browser's "Print to PDF" feature.
+2024-03-31 16:08:16.748 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-03-31 16:08:16.753 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-03-31 16:08:16.765 [info] Eager extensions activated
+2024-03-31 16:08:16.766 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-03-31 16:08:16.766 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-03-31 16:08:18.727 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2024-03-31 16:08:18.728 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-03-31 16:08:25.974 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2024-03-31 16:08:26.968 [error] Error: No matching bindings found for serviceIdentifier: Symbol(IComponentAdapter)
+	at /root/.vscode/extensions/ms-python.python-2024.2.1/out/client/extension.js:2:2000573
+	at m (/root/.vscode/extensions/ms-python.python-2024.2.1/out/client/extension.js:2:2000870)
+	at v (/root/.vscode/extensions/ms-python.python-2024.2.1/out/client/extension.js:2:2001045)
+	at /root/.vscode/extensions/ms-python.python-2024.2.1/out/client/extension.js:2:2001579
+	at Array.forEach (<anonymous>)
+	at /root/.vscode/extensions/ms-python.python-2024.2.1/out/client/extension.js:2:2001558
+	at Array.forEach (<anonymous>)
+	at v (/root/.vscode/extensions/ms-python.python-2024.2.1/out/client/extension.js:2:2001105)
+	at t.plan (/root/.vscode/extensions/ms-python.python-2024.2.1/out/client/extension.js:2:2002024)
+	at /root/.vscode/extensions/ms-python.python-2024.2.1/out/client/extension.js:2:1993610
+	at e._get (/root/.vscode/extensions/ms-python.python-2024.2.1/out/client/extension.js:2:1993519)
+	at e.get (/root/.vscode/extensions/ms-python.python-2024.2.1/out/client/extension.js:2:1992231)
+	at a.get (/root/.vscode/extensions/ms-python.python-2024.2.1/out/client/extension.js:2:467094)
+	at Timeout._onTimeout (/root/.vscode/extensions/ms-python.python-2024.2.1/out/client/extension.js:2:2903755)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2024-03-31 16:08:29.696 [error] Error: command 'python.viewOutput' already exists
+	at l.registerCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:183445)
+	at Object.registerCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:20857)
+	at s.registerCommand (/root/.vscode/extensions/ms-python.python-2024.2.1/out/client/extension.js:2:103025)
+	at /root/.vscode/extensions/ms-python.python-2024.2.1/out/client/extension.js:2:387996
+	at async t.activateComponents (/root/.vscode/extensions/ms-python.python-2024.2.1/out/client/extension.js:2:386960)
+	at async /root/.vscode/extensions/ms-python.python-2024.2.1/out/client/extension.js:2:2903458
+	at async e (/root/.vscode/extensions/ms-python.python-2024.2.1/out/client/extension.js:2:2902990)
+	at async /root/.vscode/extensions/ms-python.python-2024.2.1/out/client/extension.js:2:2902967
+2024-03-31 16:10:27.457 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2024-04-01 11:14:34.427 [info] Extension host terminating: renderer closed the MessagePort
+2024-04-01 11:14:34.455 [info] Extension host with pid 18464 exiting with code 0

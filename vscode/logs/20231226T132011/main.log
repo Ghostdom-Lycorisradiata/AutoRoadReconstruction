@@ -1,0 +1,20 @@
+2023-12-26 13:20:11.444 [info] update#setState idle
+2023-12-26 13:20:12.441 [error] update#isLatestVersion(): failed to check for updates
+2023-12-26 13:20:12.441 [error] Error: net::ERR_PROXY_CONNECTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2023-12-26 13:20:14.532 [error] update#isLatestVersion(): failed to check for updates
+2023-12-26 13:20:14.532 [error] Error: net::ERR_PROXY_CONNECTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2023-12-26 13:20:41.448 [info] update#setState checking for updates
+2023-12-26 13:20:41.451 [error] Error: net::ERR_PROXY_CONNECTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2023-12-26 13:20:41.452 [info] update#setState idle
+2023-12-26 14:20:41.476 [info] update#setState checking for updates
+2023-12-26 14:20:41.479 [error] Error: net::ERR_PROXY_CONNECTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2023-12-26 14:20:41.480 [info] update#setState idle
+2023-12-26 14:46:33.807 [info] Extension host with pid 27678 exited with code: 0, signal: unknown.

@@ -1,0 +1,5 @@
+2024-02-22 13:47:09.471 [error] [uncaught exception in sharedProcess]: net::ERR_PROXY_CONNECTION_FAILED: Error: net::ERR_PROXY_CONNECTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2024-02-22 13:47:10.336 [error] [uncaught exception in sharedProcess]: XHR failed: Error: XHR failed
+    at y.onerror (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:77:1261)

@@ -1,0 +1,13 @@
+2024-02-22 13:43:22.100 [error] Failed to establish a socket connection to proxies: ["PROXY 127.0.0.1:7890/"]: Error: Failed to establish a socket connection to proxies: ["PROXY 127.0.0.1:7890/"]
+	at _PacProxyAgent.<anonymous> (/usr/share/code/resources/app/node_modules.asar/@vscode/proxy-agent/out/agent.js:132:19)
+	at Generator.throw (<anonymous>)
+	at rejected (/usr/share/code/resources/app/node_modules.asar/@vscode/proxy-agent/out/agent.js:6:65)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+2024-02-22 13:43:22.221 [info] [perf] Render performance baseline is 25ms
+2024-02-22 13:43:57.372 [error] Error: 由于找不到该文件，因此无法打开编辑器。
+    at fh.bc (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2297:19556)
+    at async fh.setInput (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2297:18643)
+    at async s.M (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2295:20269)
+    at async s.D (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2295:18937)
+    at async s.openEditor (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2295:17925)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2480:12423

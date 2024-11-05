@@ -1,0 +1,31 @@
+2024-02-23 17:24:44.433 [info] (Client) Pylance async client (2023.12.1) started with python extension (2023.14.0)
+2024-02-23 17:24:44.790 [info] [Info  - 17:24:44] (25669) Pylance language server 2023.12.1 (pyright a78e2b10) starting
+2024-02-23 17:24:44.790 [info] [Info  - 17:24:44] (25669) Server root directory: /root/.vscode/extensions/ms-python.vscode-pylance-2023.12.1/dist
+2024-02-23 17:24:44.790 [info] [Info  - 17:24:44] (25669) Starting service instance "RandLA-Net"
+2024-02-23 17:24:44.816 [info] [Info  - 17:24:44] (25669) Setting pythonPath for service "RandLA-Net": "/home/hive/.conda/envs/randlanetTF2/bin/python"
+2024-02-23 17:24:44.816 [info] [Info  - 17:24:44] (25669) Setting environmentName for service "RandLA-Net": "3.6.13 (randlanetTF2 conda)"
+2024-02-23 17:24:44.841 [info] [Info  - 17:24:44] (25669) Assuming Python version 3.6
+2024-02-23 17:24:44.909 [info] [Info  - 17:24:44] (25669) Found 68 source files
+2024-02-23 17:27:12.720 [info] [Info  - 17:27:12] (25669) Found 69 source files
+2024-02-23 17:27:38.131 [info] [Info  - 17:27:38] (25669) Found 70 source files
+2024-02-23 17:27:58.845 [info] [Info  - 17:27:58] (25669) Found 71 source files
+2024-02-23 17:43:11.090 [info] [Info  - 17:43:11] (25669) Found 72 source files
+2024-02-23 17:43:55.795 [info] [Info  - 17:43:55] (25669) Found 73 source files
+2024-02-23 17:44:08.834 [info] [Info  - 17:44:08] (25669) Found 74 source files
+2024-02-23 17:44:29.984 [info] [Info  - 17:44:29] (25669) Found 75 source files
+2024-02-23 17:45:08.500 [info] [Info  - 17:45:08] (25669) Found 76 source files
+2024-02-23 17:45:22.298 [info] [Info  - 17:45:22] (25669) Found 77 source files
+2024-02-23 17:46:56.927 [info] [Info  - 17:46:56] (25669) Found 78 source files
+2024-02-23 17:48:35.608 [info] [Info  - 17:48:35] (25669) Found 79 source files
+2024-02-23 17:49:58.817 [info] [Info  - 17:49:58] (25669) Found 80 source files
+2024-02-24 11:29:59.553 [info] [Info  - 11:29:59] (25669) Found 81 source files
+2024-02-24 11:30:17.519 [info] [Info  - 11:30:17] (25669) Found 82 source files
+2024-02-25 11:39:06.384 [info] [Info  - 11:39:06] (25669) Found 83 source files
+2024-02-25 11:45:49.610 [info] [Info  - 11:45:49] (25669) Found 84 source files
+2024-02-25 11:49:47.384 [info] [Info  - 11:49:47] (25669) Found 85 source files
+2024-02-25 14:22:53.404 [info] [Info  - 14:22:53] (25669) Found 86 source files
+2024-02-25 15:39:57.969 [info] [Info  - 15:39:57] (25669) Found 87 source files
+2024-02-25 19:46:53.819 [info] [Info  - 19:46:53] (25669) Found 88 source files
+2024-02-25 19:47:17.413 [info] [Info  - 19:47:17] (25669) Found 89 source files
+2024-02-25 19:48:51.563 [info] [Info  - 19:48:51] (25669) Found 90 source files
+2024-02-25 19:51:32.896 [info] [Info  - 19:51:32] (25669) Found 91 source files

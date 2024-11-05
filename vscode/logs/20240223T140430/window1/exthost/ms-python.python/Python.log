@@ -1,0 +1,171 @@
+2024-02-23 14:04:32.008 [info] Test server listening.
+2024-02-23 14:04:32.016 [info] > conda info --json
+2024-02-23 14:04:32.019 [info] Python 解释器路径: /home/hive/.conda/envs/randlanetTF2/bin/python
+2024-02-23 14:04:32.183 [info] Found: /usr/bin/python --> /usr/bin/python3.8
+2024-02-23 14:04:32.189 [info] Found: /usr/bin/python2 --> /usr/bin/python2.7
+2024-02-23 14:04:32.203 [info] Found: /usr/bin/python2.7 --> /usr/bin/python2.7
+2024-02-23 14:04:32.206 [info] Found: /usr/bin/python3 --> /usr/bin/python3.8
+2024-02-23 14:04:32.206 [info] Found: /usr/bin/python3.5 --> /usr/bin/python3.5
+2024-02-23 14:04:32.206 [info] Found: /usr/bin/python3.6 --> /usr/bin/python3.6
+2024-02-23 14:04:32.206 [info] Found: /usr/bin/python3.8 --> /usr/bin/python3.8
+2024-02-23 14:04:32.207 [info] Found: /usr/include/python3.5 --> /usr/include/python3.5m
+2024-02-23 14:04:32.207 [info] Found: /usr/include/python3.6 --> /usr/include/python3.6m
+2024-02-23 14:04:32.215 [info] Found: /home/hive/miniconda3/bin/python --> /home/hive/miniconda3/bin/python3.6
+2024-02-23 14:04:32.215 [info] Found: /home/hive/miniconda3/bin/python3 --> /home/hive/miniconda3/bin/python3.6
+2024-02-23 14:04:32.215 [info] Found: /home/hive/miniconda3/bin/python3.6 --> /home/hive/miniconda3/bin/python3.6
+2024-02-23 14:04:32.238 [info] > /usr/bin/python -I ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2024-02-23 14:04:32.245 [info] > /usr/bin/python2 -I ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2024-02-23 14:04:32.288 [info] > /usr/bin/python3.5 -I ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2024-02-23 14:04:32.333 [warning] [Error: Command failed: /usr/bin/python2 -I /root/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py /root/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+Unknown option: -I
+usage: /usr/bin/python2 [option] ... [-c cmd | -m mod | file | -] [arg] ...
+Try `python -h' for more information.
+
+	at ChildProcess.exithandler (node:child_process:409:12)
+	at ChildProcess.emit (node:events:513:28)
+	at maybeClose (node:internal/child_process:1121:16)
+	at Socket.<anonymous> (node:internal/child_process:479:11)
+	at Socket.emit (node:events:513:28)
+	at Pipe.<anonymous> (node:net:757:14)] {
+  code: 2,
+  killed: false,
+  signal: null,
+  cmd: '/usr/bin/python2 -I /root/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py /root/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py'
+}
+2024-02-23 14:04:32.334 [error] Support for Python 2.7 has been dropped by the Python extension so certain features may not work, upgrade to using Python 3.
+2024-02-23 14:04:32.338 [info] > /usr/bin/python2 ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2024-02-23 14:04:32.360 [info] > conda run -n randlanetTF2 --no-capture-output python ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/printEnvVariables.py
+2024-02-23 14:04:32.360 [info] shell: bash
+2024-02-23 14:04:32.371 [info] > /usr/bin/python3.6 -I ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2024-02-23 14:04:32.414 [info] > /home/hive/.conda/envs/3DBonet2/bin/python -I ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2024-02-23 14:04:32.442 [info] > /home/hive/.conda/envs/OnlineRandomForest/bin/python -I ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2024-02-23 14:04:32.462 [info] > /home/hive/.conda/envs/RSPrompter/bin/python -I ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2024-02-23 14:04:32.494 [info] > /home/hive/.conda/envs/dmodel/bin/python -I ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2024-02-23 14:04:32.497 [info] > /home/hive/.conda/envs/fno/bin/python -I ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2024-02-23 14:04:32.558 [info] > /home/hive/.conda/envs/mitsuba/bin/python -I ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2024-02-23 14:04:32.571 [info] > /home/hive/.conda/envs/mprm-tf2.4/bin/python -I ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2024-02-23 14:04:32.632 [info] > /home/hive/.conda/envs/nerf/bin/python -I ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2024-02-23 14:04:32.664 [info] > /home/hive/.conda/envs/pointnet/bin/python -I ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2024-02-23 14:04:32.716 [info] > /home/hive/.conda/envs/pytorch3d/bin/python -I ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2024-02-23 14:04:32.734 [info] > /home/hive/.conda/envs/randlanetTF2/bin/python -I ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2024-02-23 14:04:32.758 [info] > /home/hive/.conda/envs/reconstruct/bin/python -I ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2024-02-23 14:04:32.781 [info] > /home/hive/miniconda3/bin/python -I ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2024-02-23 14:04:32.804 [info] > /usr/include/python3.5 -I ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2024-02-23 14:04:32.808 [info] > /usr/include/python3.6 -I ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2024-02-23 14:04:32.809 [error] [Error: Command failed: /usr/include/python3.5 -I /root/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py /root/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+/bin/sh: /usr/include/python3.5：是一个目录
+
+	at ChildProcess.exithandler (node:child_process:409:12)
+	at ChildProcess.emit (node:events:513:28)
+	at maybeClose (node:internal/child_process:1121:16)
+	at Socket.<anonymous> (node:internal/child_process:479:11)
+	at Socket.emit (node:events:513:28)
+	at Pipe.<anonymous> (node:net:757:14)] {
+  code: 126,
+  killed: false,
+  signal: null,
+  cmd: '/usr/include/python3.5 -I /root/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py /root/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py'
+}
+2024-02-23 14:04:32.810 [error] [Error: Command failed: /usr/include/python3.6 -I /root/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py /root/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+/bin/sh: /usr/include/python3.6：是一个目录
+
+	at ChildProcess.exithandler (node:child_process:409:12)
+	at ChildProcess.emit (node:events:513:28)
+	at maybeClose (node:internal/child_process:1121:16)
+	at Socket.<anonymous> (node:internal/child_process:479:11)
+	at Socket.emit (node:events:513:28)
+	at Pipe.<anonymous> (node:net:757:14)] {
+  code: 126,
+  killed: false,
+  signal: null,
+  cmd: '/usr/include/python3.6 -I /root/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py /root/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py'
+}
+2024-02-23 14:04:34.815 [info] > /usr/include/python3.5 -I ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2024-02-23 14:04:34.819 [info] > /usr/include/python3.6 -I ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2024-02-23 14:04:34.823 [error] [Error: Command failed: /usr/include/python3.5 -I /root/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py /root/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+/bin/sh: /usr/include/python3.5：是一个目录
+
+	at ChildProcess.exithandler (node:child_process:409:12)
+	at ChildProcess.emit (node:events:513:28)
+	at maybeClose (node:internal/child_process:1121:16)
+	at Socket.<anonymous> (node:internal/child_process:479:11)
+	at Socket.emit (node:events:513:28)
+	at Pipe.<anonymous> (node:net:757:14)] {
+  code: 126,
+  killed: false,
+  signal: null,
+  cmd: '/usr/include/python3.5 -I /root/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py /root/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py'
+}
+2024-02-23 14:04:34.824 [error] [Error: Command failed: /usr/include/python3.6 -I /root/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py /root/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+/bin/sh: /usr/include/python3.6：是一个目录
+
+	at ChildProcess.exithandler (node:child_process:409:12)
+	at ChildProcess.emit (node:events:513:28)
+	at maybeClose (node:internal/child_process:1121:16)
+	at Socket.<anonymous> (node:internal/child_process:479:11)
+	at Socket.emit (node:events:513:28)
+	at Pipe.<anonymous> (node:net:757:14)] {
+  code: 126,
+  killed: false,
+  signal: null,
+  cmd: '/usr/include/python3.6 -I /root/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py /root/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py'
+}
+2024-02-23 14:04:35.777 [info] 正在启动 Pylance 语言服务器。
+2024-02-23 14:06:19.634 [info] Discover tests for workspace name: undefined - uri: /root/data/GuYuXuan/RandLA-Net/vscode/User/History/5b689622/TLWW.py
+2024-02-23 14:07:30.595 [info] Discover tests for workspace name: undefined - uri: /root/data/GuYuXuan/RandLA-Net/vscode/User/History/5b689622/eQHj.py
+2024-02-23 14:07:32.556 [info] Discover tests for workspace name: undefined - uri: /root/data/GuYuXuan/RandLA-Net/vscode/User/History/5b689622/eQHj.py
+2024-02-23 14:08:10.190 [info] Discover tests for workspace name: undefined - uri: /root/data/GuYuXuan/RandLA-Net/vscode/User/History/5b689622/0CD0.py
+2024-02-23 14:12:17.833 [info] > conda info --json
+2024-02-23 14:12:18.087 [info] Send text to terminal: source /home/hive/.conda/envs/randlanetTF2/bin/activate randlanetTF2
+2024-02-23 14:12:18.588 [info] Send text to terminal: /home/hive/.conda/envs/randlanetTF2/bin/python /root/data/GuYuXuan/RandLA-Net/utils/cpp_wrappers/cpp_subsampling/setup.py
+2024-02-23 14:12:39.876 [info] Send text to terminal: /home/hive/.conda/envs/randlanetTF2/bin/python /root/data/GuYuXuan/RandLA-Net/utils/cpp_wrappers/cpp_wrappers/cpp_subsampling/setup.py
+2024-02-23 14:13:33.130 [info] Send text to terminal: /home/hive/.conda/envs/randlanetTF2/bin/python /root/data/GuYuXuan/RandLA-Net/helper_tool.py
+2024-02-23 14:13:49.991 [info] Discover tests for workspace name: undefined - uri: /root/data/GuYuXuan/RandLA-Net/vscode/User/History/1c362e6a/UJmi.py
+2024-02-23 14:14:32.048 [info] Send text to terminal: /home/hive/.conda/envs/randlanetTF2/bin/python /root/data/GuYuXuan/RandLA-Net/utils/data_prepare_SensatUrban.py
+2024-02-23 14:15:58.583 [info] Send text to terminal: /home/hive/.conda/envs/randlanetTF2/bin/python /root/data/GuYuXuan/RandLA-Net/utils/data_prepare_SensatUrban.py
+2024-02-23 14:15:58.901 [info] Discover tests for workspace name: undefined - uri: /root/data/GuYuXuan/RandLA-Net/vscode/User/History/5b689622/iArz.py
+2024-02-23 14:18:46.359 [info] Discover tests for workspace name: undefined - uri: /root/data/GuYuXuan/RandLA-Net/vscode/User/History/5b689622/ofai.py
+2024-02-23 14:18:47.794 [info] Send text to terminal: /home/hive/.conda/envs/randlanetTF2/bin/python /root/data/GuYuXuan/RandLA-Net/utils/data_prepare_SensatUrban.py
+2024-02-23 14:20:24.936 [info] Discover tests for workspace name: undefined - uri: /root/data/GuYuXuan/RandLA-Net/vscode/User/History/5b689622/NlRP.py
+2024-02-23 14:20:53.576 [info] Discover tests for workspace name: undefined - uri: /root/data/GuYuXuan/RandLA-Net/vscode/User/History/5a9a1945/MAet.py
+2024-02-23 14:21:04.804 [info] Discover tests for workspace name: undefined - uri: /root/data/GuYuXuan/RandLA-Net/vscode/User/History/5a9a1945/FdFf.py
+2024-02-23 14:21:13.562 [info] Discover tests for workspace name: undefined - uri: /root/data/GuYuXuan/RandLA-Net/vscode/User/History/5b689622/1sqi.py
+2024-02-23 14:21:15.714 [info] Send text to terminal: /home/hive/.conda/envs/randlanetTF2/bin/python /root/data/GuYuXuan/RandLA-Net/utils/data_prepare_SensatUrban.py
+2024-02-23 14:23:11.016 [info] Discover tests for workspace name: undefined - uri: /root/data/GuYuXuan/RandLA-Net/vscode/User/History/5b689622/rrDG.py
+2024-02-23 14:23:13.230 [info] Discover tests for workspace name: RandLA-Net - uri: /root/data/GuYuXuan/RandLA-Net/utils/data_prepare_SensatUrban.py
+2024-02-23 14:23:39.394 [info] Discover tests for workspace name: undefined - uri: /root/data/GuYuXuan/RandLA-Net/vscode/User/History/5b689622/944I.py
+2024-02-23 14:23:40.251 [info] Send text to terminal: /home/hive/.conda/envs/randlanetTF2/bin/python /root/data/GuYuXuan/RandLA-Net/utils/data_prepare_SensatUrban.py
+2024-02-23 14:23:51.891 [info] Discover tests for workspace name: undefined - uri: /root/data/GuYuXuan/RandLA-Net/vscode/User/History/5b689622/aS3p.py
+2024-02-23 14:25:17.106 [info] Discover tests for workspace name: undefined - uri: /root/data/GuYuXuan/RandLA-Net/vscode/User/History/5b689622/jEC5.py
+2024-02-23 14:25:32.503 [info] Send text to terminal: /home/hive/.conda/envs/randlanetTF2/bin/python /root/data/GuYuXuan/RandLA-Net/utils/data_prepare_SensatUrban.py
+2024-02-23 14:26:18.597 [info] Discover tests for workspace name: undefined - uri: /root/data/GuYuXuan/RandLA-Net/vscode/User/History/5b689622/6jcQ.py
+2024-02-23 14:28:36.696 [info] Discover tests for workspace name: RandLA-Net - uri: /root/data/GuYuXuan/RandLA-Net/helper_tool.py
+2024-02-23 14:28:38.985 [info] Send text to terminal: /home/hive/.conda/envs/randlanetTF2/bin/python /root/data/GuYuXuan/RandLA-Net/helper_tool.py
+2024-02-23 14:28:47.793 [info] Send text to terminal: /home/hive/.conda/envs/randlanetTF2/bin/python /root/data/GuYuXuan/RandLA-Net/utils/data_prepare_SensatUrban.py
+2024-02-23 15:23:56.912 [info] Discover tests for workspace name: undefined - uri: /root/data/GuYuXuan/RandLA-Net/vscode/User/History/2f423a59/TDdZ.py
+2024-02-23 15:24:02.802 [info] Discover tests for workspace name: undefined - uri: /root/data/GuYuXuan/RandLA-Net/vscode/User/History/2f423a59/TDdZ.py
+2024-02-23 16:01:54.069 [info] Discover tests for workspace name: undefined - uri: /root/data/GuYuXuan/RandLA-Net/vscode/User/History/2f423a59/w6NA.py
+2024-02-23 16:13:51.754 [info] Discover tests for workspace name: undefined - uri: /root/data/GuYuXuan/RandLA-Net/vscode/User/History/2f423a59/CXCq.py
+2024-02-23 16:14:43.506 [info] Discover tests for workspace name: undefined - uri: /root/data/GuYuXuan/RandLA-Net/vscode/User/History/2f423a59/E7WE.py
+2024-02-23 16:16:35.671 [info] Discover tests for workspace name: undefined - uri: /root/data/GuYuXuan/RandLA-Net/vscode/User/History/2f423a59/RjpS.py
+2024-02-23 16:17:24.941 [info] Discover tests for workspace name: undefined - uri: /root/data/GuYuXuan/RandLA-Net/vscode/User/History/2f423a59/pZuX.py
+2024-02-23 16:17:30.880 [info] Discover tests for workspace name: undefined - uri: /root/data/GuYuXuan/RandLA-Net/vscode/User/History/2f423a59/pZuX.py
+2024-02-23 16:19:58.247 [info] Discover tests for workspace name: undefined - uri: /root/data/GuYuXuan/RandLA-Net/vscode/User/History/2f423a59/SUVk.py
+2024-02-23 16:25:27.909 [info] Discover tests for workspace name: undefined - uri: /root/data/GuYuXuan/RandLA-Net/vscode/User/History/2f423a59/EVLu.py
+2024-02-23 16:29:49.853 [info] Discover tests for workspace name: RandLA-Net - uri: /root/data/GuYuXuan/RandLA-Net/utils/cpp_wrappers/cpp_wrappers/cpp_subsampling/setup.py
+2024-02-23 16:45:38.758 [info] Send text to terminal: /home/hive/.conda/envs/randlanetTF2/bin/python /root/data/GuYuXuan/RandLA-Net/utils/data_prepare_SensatUrban.py
+2024-02-23 16:45:39.082 [info] Discover tests for workspace name: undefined - uri: /root/data/GuYuXuan/RandLA-Net/vscode/User/History/5b689622/X8so.py
+2024-02-23 16:52:06.715 [info] Discover tests for workspace name: undefined - uri: /root/data/GuYuXuan/RandLA-Net/vscode/User/History/5b689622/6ch0.py
+2024-02-23 16:52:07.554 [info] Send text to terminal: /home/hive/.conda/envs/randlanetTF2/bin/python /root/data/GuYuXuan/RandLA-Net/utils/data_prepare_SensatUrban.py
+2024-02-23 16:58:25.473 [info] Send text to terminal: /home/hive/.conda/envs/randlanetTF2/bin/python /root/data/GuYuXuan/RandLA-Net/utils/data_prepare_SensatUrban.py
+2024-02-23 16:58:25.791 [info] Discover tests for workspace name: undefined - uri: /root/data/GuYuXuan/RandLA-Net/vscode/User/History/5b689622/4BIH.py
+2024-02-23 17:04:21.843 [info] Send text to terminal: /home/hive/.conda/envs/randlanetTF2/bin/python /root/data/GuYuXuan/RandLA-Net/utils/data_prepare_SensatUrban.py
+2024-02-23 17:15:50.820 [info] Discover tests for workspace name: undefined - uri: /root/data/GuYuXuan/RandLA-Net/vscode/User/History/2f423a59/890o.py
+2024-02-23 17:17:13.821 [info] Discover tests for workspace name: undefined - uri: /root/data/GuYuXuan/RandLA-Net/vscode/User/History/2f423a59/zY4D.py
+2024-02-23 17:17:45.511 [info] Discover tests for workspace name: undefined - uri: /root/data/GuYuXuan/RandLA-Net/vscode/User/History/2f423a59/Jnfz.py
+2024-02-23 17:18:02.550 [info] Discover tests for workspace name: undefined - uri: /root/data/GuYuXuan/RandLA-Net/vscode/User/History/2f423a59/TQk6.py
+2024-02-23 17:21:12.374 [info] Discover tests for workspace name: undefined - uri: /root/data/GuYuXuan/RandLA-Net/vscode/User/History/2f423a59/eFcE.py
+2024-02-23 17:21:37.514 [info] Discover tests for workspace name: undefined - uri: /root/data/GuYuXuan/RandLA-Net/vscode/User/History/2f423a59/YXJw.py
+2024-02-23 17:22:04.028 [info] Discover tests for workspace name: undefined - uri: /root/data/GuYuXuan/RandLA-Net/vscode/User/History/2f423a59/KOnC.py
+2024-02-23 17:23:43.062 [info] Discover tests for workspace name: undefined - uri: /root/data/GuYuXuan/RandLA-Net/vscode/User/History/2f423a59/lEDr.py
+2024-02-23 17:23:48.198 [info] Discover tests for workspace name: RandLA-Net - uri: /root/data/GuYuXuan/RandLA-Net/main_SensatUrban.py

@@ -1,0 +1,41 @@
+2024-03-28 17:27:23.246 [info] Extension host with pid 11153 started
+2024-03-28 17:27:23.246 [info] Skipping acquiring lock for /root/data/GuYuXuan/RandLA-Net/vscode/User/workspaceStorage/e5d1b27dce419bc30dab4d2f8666d65f.
+2024-03-28 17:27:23.335 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-03-28 17:27:23.347 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2024-03-28 17:27:23.478 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+2024-03-28 17:27:24.299 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-03-28 17:27:24.303 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-03-28 17:27:24.329 [info] Eager extensions activated
+2024-03-28 17:27:24.330 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-03-28 17:27:24.331 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-03-28 17:27:26.813 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2024-03-28 17:27:26.867 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-03-28 17:27:33.567 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2024-03-28 17:27:34.561 [error] Error: No matching bindings found for serviceIdentifier: Symbol(IComponentAdapter)
+	at /root/.vscode/extensions/ms-python.python-2024.2.1/out/client/extension.js:2:2000573
+	at m (/root/.vscode/extensions/ms-python.python-2024.2.1/out/client/extension.js:2:2000870)
+	at v (/root/.vscode/extensions/ms-python.python-2024.2.1/out/client/extension.js:2:2001045)
+	at /root/.vscode/extensions/ms-python.python-2024.2.1/out/client/extension.js:2:2001579
+	at Array.forEach (<anonymous>)
+	at /root/.vscode/extensions/ms-python.python-2024.2.1/out/client/extension.js:2:2001558
+	at Array.forEach (<anonymous>)
+	at v (/root/.vscode/extensions/ms-python.python-2024.2.1/out/client/extension.js:2:2001105)
+	at t.plan (/root/.vscode/extensions/ms-python.python-2024.2.1/out/client/extension.js:2:2002024)
+	at /root/.vscode/extensions/ms-python.python-2024.2.1/out/client/extension.js:2:1993610
+	at e._get (/root/.vscode/extensions/ms-python.python-2024.2.1/out/client/extension.js:2:1993519)
+	at e.get (/root/.vscode/extensions/ms-python.python-2024.2.1/out/client/extension.js:2:1992231)
+	at a.get (/root/.vscode/extensions/ms-python.python-2024.2.1/out/client/extension.js:2:467094)
+	at Timeout._onTimeout (/root/.vscode/extensions/ms-python.python-2024.2.1/out/client/extension.js:2:2903755)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2024-03-28 17:27:37.773 [error] Error: command 'python.viewOutput' already exists
+	at l.registerCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:183445)
+	at Object.registerCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:20857)
+	at s.registerCommand (/root/.vscode/extensions/ms-python.python-2024.2.1/out/client/extension.js:2:103025)
+	at /root/.vscode/extensions/ms-python.python-2024.2.1/out/client/extension.js:2:387996
+	at async t.activateComponents (/root/.vscode/extensions/ms-python.python-2024.2.1/out/client/extension.js:2:386960)
+	at async /root/.vscode/extensions/ms-python.python-2024.2.1/out/client/extension.js:2:2903458
+	at async e (/root/.vscode/extensions/ms-python.python-2024.2.1/out/client/extension.js:2:2902990)
+	at async /root/.vscode/extensions/ms-python.python-2024.2.1/out/client/extension.js:2:2902967
+2024-03-28 17:27:58.341 [info] Extension host terminating: renderer closed the MessagePort
+2024-03-28 17:27:58.362 [info] Extension host with pid 11153 exiting with code 0

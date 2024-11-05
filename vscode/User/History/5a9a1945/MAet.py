@@ -1,0 +1,140 @@
+from sklearn.neighbors import KDTree
+from os.path import join, exists, dirname, abspath
+import numpy as np
+import pandas as pd
+import os, sys, glob, pickle
+
+BASE_DIR = dirname(abspath(__file__))
+ROOT_DIR = dirname(BASE_DIR)
+sys.path.append(BASE_DIR)
+sys.path.append(ROOT_DIR)
+from helper_ply import write_ply
+from helper_ply import read_ply
+from helper_tool import DataProcessing as DP
+import getpass
+
+dataset_path = (
+    "/data/sensat_simplified_binary" 
+)
+
+# "./data/sensat_simplified_binary"
+# "./data/sensat_2D"
+# "/root/data/GuYuXuan/RandLA-Net/data/sensaturban/train"
+
+sub_grid_size = 0.8
+original_pc_folder = join(dirname(dataset_path), "original_ply")
+sub_pc_folder = join(dirname(dataset_path), "input_{:.3f}".format(sub_grid_size))
+os.mkdir(original_pc_folder) if not exists(original_pc_folder) else None
+os.mkdir(sub_pc_folder) if not exists(sub_pc_folder) else None
+out_format = ".ply"
+
+def convert_pc2ply(anno_path, save_path):
+    """
+    Convert original dataset files to ply file (each line is XYZRGBL).
+    We aggregated all the points from each instance in the room.
+    :param anno_path: path to annotations. e.g. Area_1/office_2/Annotations/
+    :param save_path: path to save original point clouds (each line is XYZRGBL)
+    :return: None
+    """
+    # read ply
+    data = read_ply(anno_path)
+    xyz = np.vstack((data['x'], data['y'], data['z'])).T
+    colors = np.vstack((data["red"], data["green"], data["blue"])).T
+    if "test" in anno_path:
+        labels = np.zeros([len(xyz),1])
+    else:
+        # labels = np.vstack((data["class"]))
+        labels = np.vstack((data["scalar_class"]))
+        # labels = np.vstack((data["class_midline"]))
+
+    for i in range(len(labels)):
+        # print("******************************************")
+        # print(len(xyz))
+        # print(xyz[i])
+        # print(colors[i])
+        # print(labels[i])
+        # label_int=labels[i]
+        label_int=int(float(labels[i]))
+        if(np.equal(label_int,7) or np.equal(label_int,10) or np.equal(label_int,4)):
+            labels[i]=1
+        else:
+            labels[i]=0
+
+    # for i in range(len(xyz)):
+    #     xyz[i][2]=0.0
+
+    xyz = xyz.astype(np.float32)
+    colors = colors.astype(np.uint8)
+    labels = labels.astype(np.uint8)
+
+    # 2 output1
+    # print(save_path)
+    write_ply(
+        save_path,
+        (xyz, colors, labels),
+        ["x", "y", "z", "red", "green", "blue", "class"],
+    )
+
+    # 3.1 output2
+    # 将每个0.04m立方体内的点做均值，并统计该立方体内的每个类别的数量，将占比最大的类别作为采样后的类别.
+    sub_xyz, sub_colors, sub_labels = DP.grid_sub_sampling(
+        xyz, colors, labels, sub_grid_size
+    )
+    # 颜色归一化
+    sub_colors = sub_colors / 255.0
+    sub_ply_file = join(sub_pc_folder, save_path.split("/")[-1][:-4] + ".ply")
+    sub_normals = DP.calculate_pc_normals(sub_xyz)
+
+    # print(sub_ply_file)
+    write_ply(
+        sub_ply_file,
+        [sub_xyz, sub_colors, sub_labels, sub_normals],
+        ["x", "y", "z", "red", "green", "blue", "class", "normal_x", "normal_y", "normal_z"],
+    )
+    # 3.2 output3 存储KDTree
+    search_tree = KDTree(sub_xyz)
+    kd_tree_file = join(
+        sub_pc_folder, str(save_path.split("/")[-1][:-4]) + "_KDTree.pkl"
+    )
+    print(kd_tree_file)
+    with open(kd_tree_file, "wb") as f:
+        pickle.dump(search_tree, f)
+
+    # 3.3 output4 存储投影信息
+    proj_idx = np.squeeze(search_tree.query(xyz, return_distance=False))
+    proj_idx = proj_idx.astype(np.int32)
+    proj_save = join(sub_pc_folder, str(save_path.split("/")[-1][:-4]) + "_proj.pkl")
+    print(proj_save)
+    with open(proj_save, "wb") as f:
+        pickle.dump([proj_idx, labels], f)
+
+
+if __name__ == "__main__":
+    # Note: there is an extra character in the v1.2 data in Area_5/hallway_6. It's fixed manually.
+    """
+    对原始数据(点和标签)进行网格采样, 并生成ply文件和KDTree文件。同时保存投影信息。
+    1 input 读取点云和label
+    Stanford3dDataset_v1.2_Aligned_Version/Area_1/office_16/Annotations/*.txt
+    【x y z r g b】
+    pandas.read_csv  - > numpy
+    2 output1
+    original_ply/Area_1_office_16.ply 【 x y z r g b label】: numpy.tofile  # 采样后就不再使用了
+    3 对output1采样生成output2,output3,output4
+    对output1采样生成output2,output3,output4,随机采样，点数约为原来的0.04倍，rgb从0~255映射到0~1
+        3.1 output2
+        input_0.040/Area_1_office_16.ply 【x y z r g b label】            : numpy.tofile
+        train要用且只用数据【rgb和label 】                                  : pickle.load
+        3.2 output3
+        input_0.040/Area_1_office_16_KDTree.pkl 【x y z】                  ：pickle.dump
+        train要用的数据 【x y z 】                                          : pickle.load
+        3.3 output4
+        input_0.040/Area_1_office_16_KDTree_proj.pkl                      ：pickle.dump
+        val要用的数据【proj_id、label】                                     ：pickle.load
+    """
+    print(dataset_path)
+    # 1 input 读取点云和label
+    for file_name in glob.glob(join(dataset_path, "*.ply")):
+        print(file_name)
+        elements = str(file_name).split("/")
+        out_file_name = elements[-2] + "_" + elements[-1] + out_format
+        convert_pc2ply(file_name, join(original_pc_folder, out_file_name))

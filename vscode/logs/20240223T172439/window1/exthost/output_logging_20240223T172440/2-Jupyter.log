@@ -1,0 +1,13 @@
+Visual Studio Code (1.81.1, undefined, desktop)
+Jupyter Extension Version: 2023.7.1002162226.
+Python Extension Version: 2023.14.0.
+Platform: linux (x64).
+Workspace folder ~/data/GuYuXuan/RandLA-Net, Home = /root
+17:24:40.941 [info] 用户属于试验组 "NewJupyterSession"
+17:24:41.122 [info] Start refreshing Interpreter Kernel Picker (1708680281122)
+17:24:41.130 [info] Using Pylance
+17:24:41.771 [info] Process Execution: /home/hive/.conda/envs/randlanetTF2/bin/python -m pip list
+17:24:44.820 [info] End refreshing Interpreter Kernel Picker (1708680281122)
+19:54:46.912 [info] Disposing HostJupyterExecution
+19:54:46.912 [info] Shutting down notebooks for 4d5ebc2e-5dcf-4ed1-9957-e3d6a61fb337
+19:54:46.913 [info] Disposing HostJupyterExecution

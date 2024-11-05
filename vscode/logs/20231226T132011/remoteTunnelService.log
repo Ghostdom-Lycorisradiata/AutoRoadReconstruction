@@ -1,0 +1,9 @@
+2023-12-26 13:20:12.868 [error] /usr/share/code/bin/code-tunnel: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.29' not found (required by /usr/share/code/bin/code-tunnel)
+
+2023-12-26 13:20:12.869 [error] /usr/share/code/bin/code-tunnel: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.28' not found (required by /usr/share/code/bin/code-tunnel)
+
+2023-12-26 13:20:12.870 [error] SyntaxError: "undefined" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at o.G (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:84:7662)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async o.initialize (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:84:6537)

@@ -1,0 +1,71 @@
+2024-02-23 14:04:31.281 [info] Extension host with pid 22375 started
+2024-02-23 14:04:31.281 [info] Skipping acquiring lock for /root/data/GuYuXuan/RandLA-Net/vscode/User/workspaceStorage/e5d1b27dce419bc30dab4d2f8666d65f.
+2024-02-23 14:04:31.390 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-02-23 14:04:31.390 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2024-02-23 14:04:31.391 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+2024-02-23 14:04:31.564 [warning] Using default string since no string found in i18n bundle that has the key: You need to select a Python interpreter before you start debugging.
+
+Tip: click on "Select Interpreter" in the status bar.
+2024-02-23 14:04:31.564 [warning] Using default string since no string found in i18n bundle that has the key: The Python extension now includes Pylance to improve completions, code navigation, overall performance and much more! You can learn more about the update and learn how to change your language server [here](https://aka.ms/new-python-bundle).
+
+Read Pylance's license [here](https://marketplace.visualstudio.com/items/ms-python.vscode-pylance/license).
+2024-02-23 14:04:31.565 [warning] Using default string since no string found in i18n bundle that has the key: The Microsoft Python Language Server has reached end of life. Your language server has been set to the default for Python in VS Code, Pylance.
+
+If you'd like to change your language server, you can learn about how to do so [here](https://devblogs.microsoft.com/python/python-in-visual-studio-code-may-2021-release/#configuring-your-language-server).
+
+Read Pylance's license [here](https://marketplace.visualstudio.com/items/ms-python.vscode-pylance/license).
+2024-02-23 14:04:31.641 [warning] Using default string since no string found in i18n bundle that has the key: Python is not installed. 
+Please download and install Python in order to execute cells in this notebook. 
+Once installed please reload VS Code.
+2024-02-23 14:04:31.642 [warning] Using default string since no string found in i18n bundle that has the key: Please check the 'Jupyter' [output](command:jupyter.viewOutput) panel for further details./Do not translate the text "command:jupyter.viewOutput", that is a command Id that will be used by VS Code to open the output panel
+2024-02-23 14:04:31.642 [warning] Using default string since no string found in i18n bundle that has the key: Jupyter Server Console
+2024-02-23 14:04:31.642 [warning] Using default string since no string found in i18n bundle that has the key: Operation not supported in web version of Jupyter Extension.
+2024-02-23 14:04:31.642 [warning] Using default string since no string found in i18n bundle that has the key: Failed to install the Python Extension.
+2024-02-23 14:04:31.981 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2024-02-23 14:04:32.025 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2024-02-23 14:04:32.169 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-02-23 14:04:32.205 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-02-23 14:04:32.211 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2024-02-23 14:04:32.214 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-02-23 14:04:32.214 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-02-23 14:04:32.319 [info] Eager extensions activated
+2024-02-23 14:04:32.341 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-02-23 14:04:32.342 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-02-23 14:04:33.731 [error] Error: Failed to establish a socket connection to proxies: ["PROXY 127.0.0.1:7890/"]
+	at _PacProxyAgent.<anonymous> (/usr/share/code/resources/app/node_modules.asar/@vscode/proxy-agent/out/agent.js:132:19)
+	at Generator.throw (<anonymous>)
+	at rejected (/usr/share/code/resources/app/node_modules.asar/@vscode/proxy-agent/out/agent.js:6:65)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+2024-02-23 14:04:33.733 [error] Error: Failed to establish a socket connection to proxies: ["PROXY 127.0.0.1:7890/"]
+	at _PacProxyAgent.<anonymous> (/usr/share/code/resources/app/node_modules.asar/@vscode/proxy-agent/out/agent.js:132:19)
+	at Generator.throw (<anonymous>)
+	at rejected (/usr/share/code/resources/app/node_modules.asar/@vscode/proxy-agent/out/agent.js:6:65)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+2024-02-23 14:04:34.436 [error] Error: Failed to establish a socket connection to proxies: ["PROXY 127.0.0.1:7890/"]
+	at _PacProxyAgent.<anonymous> (/usr/share/code/resources/app/node_modules.asar/@vscode/proxy-agent/out/agent.js:132:19)
+	at Generator.throw (<anonymous>)
+	at rejected (/usr/share/code/resources/app/node_modules.asar/@vscode/proxy-agent/out/agent.js:6:65)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+2024-02-23 14:06:17.525 [error] [ms-python.python] provider FAILED
+2024-02-23 14:06:17.525 [error] TypeError: Cannot read properties of undefined (reading 'data')
+	at /root/.vscode/extensions/ms-python.vscode-pylance-2023.12.1/dist/extension.bundle.js:1:139734
+	at _0x1be708 (/root/.vscode/extensions/ms-python.vscode-pylance-2023.12.1/dist/extension.bundle.js:1:152918)
+	at async ce.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:50188)
+2024-02-23 14:06:36.327 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-02-23 14:23:10.123 [error] [ms-python.python] provider FAILED
+2024-02-23 14:23:10.123 [error] TypeError: Cannot read properties of undefined (reading 'data')
+	at /root/.vscode/extensions/ms-python.vscode-pylance-2023.12.1/dist/extension.bundle.js:1:139734
+	at _0x1be708 (/root/.vscode/extensions/ms-python.vscode-pylance-2023.12.1/dist/extension.bundle.js:1:152918)
+	at async ce.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:50188)
+2024-02-23 15:24:01.840 [error] [ms-python.python] provider FAILED
+2024-02-23 15:24:01.840 [error] TypeError: Cannot read properties of undefined (reading 'data')
+	at /root/.vscode/extensions/ms-python.vscode-pylance-2023.12.1/dist/extension.bundle.js:1:139734
+	at _0x1be708 (/root/.vscode/extensions/ms-python.vscode-pylance-2023.12.1/dist/extension.bundle.js:1:152918)
+	at async ce.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:50188)
+2024-02-23 16:16:14.509 [error] [ms-python.python] provider FAILED
+2024-02-23 16:16:14.509 [error] TypeError: Cannot read properties of undefined (reading 'data')
+	at /root/.vscode/extensions/ms-python.vscode-pylance-2023.12.1/dist/extension.bundle.js:1:139734
+	at _0x1be708 (/root/.vscode/extensions/ms-python.vscode-pylance-2023.12.1/dist/extension.bundle.js:1:152918)
+	at async ce.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:50188)
+2024-02-23 17:24:23.896 [info] Extension host terminating: renderer closed the MessagePort
+2024-02-23 17:24:23.927 [info] Extension host with pid 22375 exiting with code 0

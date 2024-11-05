@@ -1,0 +1,12 @@
+Visual Studio Code (1.81.1, undefined, desktop)
+Jupyter Extension Version: 2023.7.1002162226.
+Python Extension Version: 2023.14.0.
+Platform: linux (x64).
+Workspace folder ~/data/GuYuXuan/RandLA-Net, Home = /root
+13:47:07.781 [info] 用户属于试验组 "NewJupyterSession"
+13:47:07.972 [info] Start refreshing Interpreter Kernel Picker (1708580827972)
+13:47:07.979 [info] Using Pylance
+13:47:08.238 [warn] Failed to get activated env vars for /usr/bin/python in 216ms
+13:47:08.246 [info] Process Execution: /usr/bin/python -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+13:47:08.275 [info] Process Execution: /usr/bin/python -m pip list
+13:47:11.724 [info] End refreshing Interpreter Kernel Picker (1708580827972)

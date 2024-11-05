@@ -1,0 +1,24 @@
+2023-12-26 13:20:12.126 [error] electron #1: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_PROXY_CONNECTION_FAILED
+2023-12-26 13:20:12.440 [error] electron #2: https://update.code.visualstudio.com/api/update/linux-x64/stable/6c3e3dba23e8fadc360aed75ce363ba185c49794 - error undefined net::ERR_PROXY_CONNECTION_FAILED
+2023-12-26 13:20:14.240 [error] electron #3: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_PROXY_CONNECTION_FAILED
+2023-12-26 13:20:14.493 [error] browser #1: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST XHR failed
+2023-12-26 13:20:14.532 [error] electron #4: https://update.code.visualstudio.com/api/update/linux-x64/stable/6c3e3dba23e8fadc360aed75ce363ba185c49794 - error undefined net::ERR_PROXY_CONNECTION_FAILED
+2023-12-26 13:20:41.451 [error] electron #5: https://update.code.visualstudio.com/api/update/linux-x64/stable/6c3e3dba23e8fadc360aed75ce363ba185c49794 - error undefined net::ERR_PROXY_CONNECTION_FAILED
+2023-12-26 13:25:14.593 [error] electron #6: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_PROXY_CONNECTION_FAILED
+2023-12-26 13:30:14.621 [error] electron #7: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_PROXY_CONNECTION_FAILED
+2023-12-26 13:35:14.644 [error] electron #8: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_PROXY_CONNECTION_FAILED
+2023-12-26 13:40:14.684 [error] electron #9: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_PROXY_CONNECTION_FAILED
+2023-12-26 13:45:14.705 [error] electron #10: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_PROXY_CONNECTION_FAILED
+2023-12-26 13:50:14.724 [error] electron #11: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_PROXY_CONNECTION_FAILED
+2023-12-26 13:55:14.744 [error] electron #12: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_PROXY_CONNECTION_FAILED
+2023-12-26 14:00:14.766 [error] electron #13: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_PROXY_CONNECTION_FAILED
+2023-12-26 14:05:14.786 [error] electron #14: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_PROXY_CONNECTION_FAILED
+2023-12-26 14:10:14.809 [error] electron #15: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_PROXY_CONNECTION_FAILED
+2023-12-26 14:15:14.849 [error] electron #16: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_PROXY_CONNECTION_FAILED
+2023-12-26 14:20:14.871 [error] electron #17: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_PROXY_CONNECTION_FAILED
+2023-12-26 14:20:41.479 [error] electron #18: https://update.code.visualstudio.com/api/update/linux-x64/stable/6c3e3dba23e8fadc360aed75ce363ba185c49794 - error undefined net::ERR_PROXY_CONNECTION_FAILED
+2023-12-26 14:25:14.889 [error] electron #19: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_PROXY_CONNECTION_FAILED
+2023-12-26 14:30:14.906 [error] electron #20: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_PROXY_CONNECTION_FAILED
+2023-12-26 14:35:14.925 [error] electron #21: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_PROXY_CONNECTION_FAILED
+2023-12-26 14:40:14.943 [error] electron #22: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_PROXY_CONNECTION_FAILED
+2023-12-26 14:45:14.964 [error] electron #23: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_PROXY_CONNECTION_FAILED

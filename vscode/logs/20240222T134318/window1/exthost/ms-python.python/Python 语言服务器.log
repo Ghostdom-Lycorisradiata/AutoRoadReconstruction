@@ -1,0 +1,8 @@
+2024-02-22 13:43:23.569 [info] (Client) Pylance async client (2023.12.1) started with python extension (2023.14.0)
+2024-02-22 13:43:23.931 [info] [Info  - 13:43:23] (13396) Pylance language server 2023.12.1 (pyright a78e2b10) starting
+2024-02-22 13:43:23.931 [info] [Info  - 13:43:23] (13396) Server root directory: /root/.vscode/extensions/ms-python.vscode-pylance-2023.12.1/dist
+2024-02-22 13:43:23.931 [info] [Info  - 13:43:23] (13396) Starting service instance "RandLA-Net"
+2024-02-22 13:43:23.956 [info] [Info  - 13:43:23] (13396) Setting pythonPath for service "RandLA-Net": "/usr/bin/python"
+2024-02-22 13:43:23.956 [info] [Info  - 13:43:23] (13396) Setting environmentName for service "RandLA-Net": "3.8.16 (全局)"
+2024-02-22 13:43:23.980 [info] [Info  - 13:43:23] (13396) Assuming Python version 3.8
+2024-02-22 13:43:24.037 [info] [Info  - 13:43:24] (13396) Found 22 source files

@@ -1,0 +1,13 @@
+ground
+vegetation
+building
+wall
+bridge
+parking
+rail
+traffic_road
+street_furniture
+car
+footpath
+bike
+water

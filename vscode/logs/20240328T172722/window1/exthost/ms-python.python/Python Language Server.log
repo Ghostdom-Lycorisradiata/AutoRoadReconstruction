@@ -1,0 +1,15 @@
+2024-03-28 17:27:46.702 [info] (Client) Pylance async client (2024.3.2) started with python extension (2024.2.1)
+2024-03-28 17:27:47.058 [info] [Info  - 17:27:47] (14505) Pylance language server 2024.3.2 (pyright version 1.1.351, commit 87171fbf) starting
+2024-03-28 17:27:47.058 [info] [Info  - 17:27:47] (14505) Server root directory: file:///root/.vscode/extensions/ms-python.vscode-pylance-2024.3.2/dist
+2024-03-28 17:27:47.059 [info] [Info  - 17:27:47] (14505) Starting service instance "RandLA-Net"
+2024-03-28 17:27:47.092 [info] [Info  - 17:27:47] (14505) Setting pythonPath for service "RandLA-Net": "/usr/bin/python"
+2024-03-28 17:27:47.092 [info] [Info  - 17:27:47] (14505) Setting environmentName for service "RandLA-Net": "3.8.16 (全局)"
+2024-03-28 17:27:47.115 [info] [Info  - 17:27:47] (14505) Assuming Python version 3.8
+2024-03-28 17:27:47.206 [info] [Info  - 17:27:47] (14505) Found 94 source files
+2024-03-28 17:27:47.407 [info] [Info  - 17:27:47] (14505) Background analysis(1) root directory: file:///root/.vscode/extensions/ms-python.vscode-pylance-2024.3.2/dist
+2024-03-28 17:27:47.409 [info] [Info  - 17:27:47] (14505) Background analysis(1) started
+2024-03-28 17:27:47.556 [info] [Info  - 17:27:47] (14505) Indexer background runner(2) root directory: file:///root/.vscode/extensions/ms-python.vscode-pylance-2024.3.2/dist (index)
+2024-03-28 17:27:47.556 [info] [Info  - 17:27:47] (14505) Indexing(2) started
+2024-03-28 17:27:47.844 [info] [Info  - 17:27:47] (14505) scanned(2) 105 files over 1 exec env
+2024-03-28 17:27:48.524 [info] [Info  - 17:27:48] (14505) indexed(2) 40 files over 1 exec env
+2024-03-28 17:27:48.562 [info] [Info  - 17:27:48] (14505) Indexing finished(2).

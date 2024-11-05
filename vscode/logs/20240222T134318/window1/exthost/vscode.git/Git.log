@@ -1,0 +1,31 @@
+2024-02-22 13:43:20.666 [info] 日志级别: Info
+2024-02-22 13:43:20.666 [info] 正在验证在以下位置找到的 git: "git"
+2024-02-22 13:43:20.666 [info] 将使用位于 "2.17.1" 的 Git "git"
+2024-02-22 13:43:20.666 [info] > git rev-parse --show-toplevel [5ms]
+2024-02-22 13:43:20.666 [info] fatal: 不是一个 git 仓库（或者任何父目录）：.git
+2024-02-22 13:43:20.666 [info] > git rev-parse --show-toplevel [5ms]
+2024-02-22 13:43:20.666 [info] fatal: 不是一个 git 仓库（或者任何父目录）：.git
+2024-02-22 13:43:20.673 [info] > git rev-parse --show-toplevel [7ms]
+2024-02-22 13:43:20.673 [info] fatal: 不是一个 git 仓库（或者任何父目录）：.git
+2024-02-22 13:43:20.691 [info] > git rev-parse --show-toplevel [14ms]
+2024-02-22 13:43:20.691 [info] fatal: 不是一个 git 仓库（或者任何父目录）：.git
+2024-02-22 13:43:20.698 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-22 13:43:20.698 [info] fatal: 不是一个 git 仓库（或者任何父目录）：.git
+2024-02-22 13:43:20.714 [info] > git rev-parse --show-toplevel [9ms]
+2024-02-22 13:43:20.714 [info] fatal: 不是一个 git 仓库（或者任何父目录）：.git
+2024-02-22 13:43:20.722 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-22 13:43:20.722 [info] fatal: 不是一个 git 仓库（或者任何父目录）：.git
+2024-02-22 13:43:20.729 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-22 13:43:20.729 [info] fatal: 不是一个 git 仓库（或者任何父目录）：.git
+2024-02-22 13:43:54.838 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-22 13:43:54.838 [info] fatal: 不是一个 git 仓库（或者任何父目录）：.git
+2024-02-22 13:44:00.414 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-22 13:44:00.414 [info] fatal: 不是一个 git 仓库（或者任何父目录）：.git
+2024-02-22 13:44:03.533 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-22 13:44:03.533 [info] fatal: 不是一个 git 仓库（或者任何父目录）：.git
+2024-02-22 13:44:04.720 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-22 13:44:04.720 [info] fatal: 不是一个 git 仓库（或者任何父目录）：.git
+2024-02-22 13:44:06.935 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-22 13:44:06.935 [info] fatal: 不是一个 git 仓库（或者任何父目录）：.git
+2024-02-22 13:44:12.728 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-22 13:44:12.728 [info] fatal: 不是一个 git 仓库（或者任何父目录）：.git

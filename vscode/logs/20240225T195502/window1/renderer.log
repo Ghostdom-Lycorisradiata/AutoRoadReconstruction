@@ -1,0 +1,6 @@
+2024-02-25 19:55:06.010 [error] Failed to establish a socket connection to proxies: ["PROXY 127.0.0.1:7890/"]: Error: Failed to establish a socket connection to proxies: ["PROXY 127.0.0.1:7890/"]
+	at _PacProxyAgent.<anonymous> (/usr/share/code/resources/app/node_modules.asar/@vscode/proxy-agent/out/agent.js:132:19)
+	at Generator.throw (<anonymous>)
+	at rejected (/usr/share/code/resources/app/node_modules.asar/@vscode/proxy-agent/out/agent.js:6:65)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+2024-02-25 19:55:06.209 [info] [perf] Render performance baseline is 34ms

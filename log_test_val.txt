@@ -1,0 +1,1515 @@
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+43.03 |  0.00 86.06 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+43.03 |  0.00 86.06 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+43.03 |  0.00 86.06 
+
+
+Reproject Vote #3
+Confusion on full clouds
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+43.03 |  0.00 86.06 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+43.03 |  0.00 86.06 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+43.03 |  0.00 86.06 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+43.03 |  0.00 86.06 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+43.03 |  0.00 86.06 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+43.03 |  0.00 86.06 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+43.03 |  0.00 86.06 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+82.07 | 69.90 94.23 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+82.07 | 69.90 94.23 
+--------------------
+
+Epoch   0, end. Min possibility = 21.1
+
+Confusion on sub clouds
+61.87 | 42.17 81.58 
+
+
+Reproject Vote #21
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+61.87 | 42.17 81.58 
+--------------------
+
+Epoch   0, end. Min possibility = 21.0
+
+Confusion on sub clouds
+55.75 | 32.45 79.05 
+
+
+Reproject Vote #21
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+55.75 | 32.45 79.05 
+--------------------
+
+Epoch   0, end. Min possibility = 6.7
+
+Confusion on sub clouds
+43.00 | 26.97 59.04 
+
+
+Reproject Vote #6
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+43.00 | 26.97 59.04 
+--------------------
+
+Epoch   0, end. Min possibility = 6.7
+
+Confusion on sub clouds
+48.65 | 28.11 69.19 
+
+
+Reproject Vote #6
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+48.65 | 28.11 69.19 
+--------------------
+
+Epoch   0, end. Min possibility = 6.7
+
+Confusion on sub clouds
+38.98 | 25.01 52.94 
+
+
+Reproject Vote #6
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+38.98 | 25.01 52.94 
+--------------------
+
+Epoch   0, end. Min possibility = 6.7
+
+Confusion on sub clouds
+47.85 | 29.48 66.22 
+
+
+Reproject Vote #6
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+47.85 | 29.48 66.22 
+--------------------
+
+Epoch   0, end. Min possibility = 6.7
+
+Confusion on sub clouds
+47.91 | 27.53 68.29 
+
+
+Reproject Vote #6
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+47.91 | 27.53 68.29 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+47.64 | 25.16 70.12 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+47.64 | 25.16 70.12 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+46.37 | 27.25 65.49 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+46.37 | 27.25 65.49 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+43.03 |  0.00 86.06 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+43.03 |  0.00 86.06 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+43.03 |  0.00 86.06 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+43.03 |  0.00 86.06 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+50.65 | 27.64 73.66 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+50.65 | 27.64 73.66 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+43.03 |  0.00 86.06 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+43.03 |  0.00 86.06 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+78.13 | 64.14 92.11 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+78.13 | 64.14 92.11 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+63.49 | 43.77 83.20 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+63.49 | 43.77 83.20 
+--------------------
+
+Epoch   0, end. Min possibility = 3.1
+
+Confusion on sub clouds
+65.29 | 45.55 85.03 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+65.29 | 45.55 85.03 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+80.31 | 67.04 93.58 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+80.31 | 67.04 93.58 
+--------------------
+
+Epoch   0, end. Min possibility = 3.1
+
+Confusion on sub clouds
+75.75 | 60.57 90.93 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+75.75 | 60.57 90.93 
+--------------------
+
+Epoch   0, end. Min possibility = 3.1
+
+Confusion on sub clouds
+76.72 | 61.46 91.98 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+76.72 | 61.46 91.98 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+78.01 | 63.84 92.17 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+78.01 | 63.84 92.17 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+80.37 | 67.00 93.75 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+80.37 | 67.00 93.75 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+75.54 | 60.26 90.83 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+75.54 | 60.26 90.83 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+79.00 | 65.15 92.85 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+79.00 | 65.15 92.85 
+--------------------
+
+Epoch   0, end. Min possibility = 3.1
+
+Confusion on sub clouds
+79.51 | 66.03 92.99 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+79.51 | 66.03 92.99 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+81.65 | 69.37 93.93 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+81.65 | 69.37 93.93 
+--------------------
+
+Epoch   0, end. Min possibility = 3.1
+
+Confusion on sub clouds
+79.53 | 65.84 93.22 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+79.53 | 65.84 93.22 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+78.92 | 64.47 93.37 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+78.92 | 64.47 93.37 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+80.24 | 67.10 93.38 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+80.24 | 67.10 93.38 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+48.74 | 22.29 75.18 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+48.41 | 27.76 69.05 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+Epoch   0, end. Min possibility = 3.1
+
+Confusion on sub clouds
+43.03 |  0.00 86.06 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+44.39 |  3.02 85.76 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+44.39 |  3.02 85.76 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+47.11 | 10.00 84.21 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+47.11 | 10.00 84.21 
+--------------------
+
+Epoch   0, end. Min possibility = 3.1
+
+Confusion on sub clouds
+48.36 | 21.00 75.72 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+48.36 | 21.00 75.72 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+43.03 |  0.00 86.06 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+43.03 |  0.00 86.06 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+43.03 |  0.00 86.06 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+No valid APLS results to compute average.
+--------------------
+43.03 |  0.00 86.06 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+42.87 |  1.52 84.22 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+42.87 |  1.52 84.22 
+--------------------
+
+Epoch   0, end. Min possibility = 3.1
+
+Confusion on sub clouds
+78.74 | 64.88 92.61 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+78.74 | 64.88 92.61 
+--------------------
+
+Epoch   0, end. Min possibility = 3.1
+
+Confusion on sub clouds
+80.34 | 67.41 93.27 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+80.34 | 67.41 93.27 
+--------------------
+
+Epoch   0, end. Min possibility = 3.1
+
+Confusion on sub clouds
+80.83 | 68.05 93.61 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+80.83 | 68.05 93.61 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+78.87 | 64.98 92.75 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+78.87 | 64.98 92.75 
+--------------------
+
+Epoch   0, end. Min possibility = 3.1
+
+Confusion on sub clouds
+81.31 | 68.81 93.80 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+81.31 | 68.81 93.80 
+--------------------
+
+Epoch   0, end. Min possibility = 3.1
+
+Confusion on sub clouds
+80.09 | 66.78 93.40 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+80.09 | 66.78 93.40 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+77.69 | 63.24 92.15 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+77.69 | 63.24 92.15 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+77.31 | 62.93 91.69 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+77.31 | 62.93 91.69 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+77.73 | 63.45 92.02 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+77.73 | 63.45 92.02 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+79.55 | 65.95 93.16 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+79.55 | 65.95 93.16 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+79.37 | 65.55 93.19 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+79.37 | 65.55 93.19 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+78.56 | 64.29 92.83 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+78.56 | 64.29 92.83 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+78.22 | 63.99 92.46 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+78.22 | 63.99 92.46 
+--------------------
+
+Epoch   0, end. Min possibility = 3.1
+
+Confusion on sub clouds
+80.82 | 67.87 93.77 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+80.82 | 67.87 93.77 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+80.33 | 67.05 93.62 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+80.33 | 67.05 93.62 
+--------------------
+
+Epoch   0, end. Min possibility = 3.1
+
+Confusion on sub clouds
+81.16 | 68.22 94.11 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+81.16 | 68.22 94.11 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+79.67 | 65.91 93.44 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+79.67 | 65.91 93.44 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+79.05 | 65.42 92.67 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+79.05 | 65.42 92.67 
+--------------------
+
+Epoch   0, end. Min possibility = 3.1
+
+Confusion on sub clouds
+80.65 | 67.70 93.60 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+80.65 | 67.70 93.60 
+--------------------
+
+Epoch   0, end. Min possibility = 3.1
+
+Confusion on sub clouds
+80.67 | 67.77 93.58 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+80.67 | 67.77 93.58 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+78.84 | 64.85 92.84 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+78.84 | 64.85 92.84 
+--------------------
+
+Epoch   0, end. Min possibility = 3.1
+
+Confusion on sub clouds
+78.93 | 65.08 92.77 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+78.93 | 65.08 92.77 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+80.64 | 67.42 93.86 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+80.64 | 67.42 93.86 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+81.16 | 68.41 93.91 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+81.16 | 68.41 93.91 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+82.29 | 70.32 94.27 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+82.29 | 70.32 94.27 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+78.74 | 64.95 92.53 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+78.74 | 64.95 92.53 
+--------------------
+
+Epoch   0, end. Min possibility = 3.1
+
+Confusion on sub clouds
+79.31 | 65.35 93.26 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+79.31 | 65.35 93.26 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+79.50 | 65.99 93.00 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+79.50 | 65.99 93.00 
+--------------------
+
+Epoch   0, end. Min possibility = 3.1
+
+Confusion on sub clouds
+77.98 | 63.30 92.66 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+77.98 | 63.30 92.66 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+80.53 | 67.37 93.69 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+80.53 | 67.37 93.69 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+80.70 | 67.79 93.60 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+80.70 | 67.79 93.60 
+--------------------
+
+Epoch   0, end. Min possibility = 3.1
+
+Confusion on sub clouds
+79.21 | 65.52 92.90 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+79.21 | 65.52 92.90 
+--------------------
+
+Epoch   0, end. Min possibility = 3.1
+
+Confusion on sub clouds
+78.50 | 64.21 92.79 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+78.50 | 64.21 92.79 
+--------------------
+
+Epoch   0, end. Min possibility = 3.1
+
+Confusion on sub clouds
+82.20 | 70.36 94.03 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+82.20 | 70.36 94.03 
+--------------------
+
+Epoch   0, end. Min possibility = 3.1
+
+Confusion on sub clouds
+80.13 | 66.40 93.86 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+80.13 | 66.40 93.86 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+80.77 | 67.76 93.78 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+80.77 | 67.76 93.78 
+--------------------
+
+Epoch   0, end. Min possibility = 3.1
+
+Confusion on sub clouds
+80.61 | 67.64 93.57 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+80.61 | 67.64 93.57 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+79.60 | 66.06 93.14 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+79.60 | 66.06 93.14 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+79.25 | 65.67 92.84 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+79.25 | 65.67 92.84 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+80.51 | 67.31 93.71 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+80.51 | 67.31 93.71 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+77.05 | 62.61 91.49 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+77.05 | 62.61 91.49 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+78.45 | 64.36 92.53 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+78.45 | 64.36 92.53 
+--------------------
+
+Epoch   0, end. Min possibility = 3.1
+
+Confusion on sub clouds
+79.26 | 65.34 93.19 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+79.26 | 65.34 93.19 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+80.62 | 67.36 93.87 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+80.62 | 67.36 93.87 
+--------------------
+
+Epoch   0, end. Min possibility = 3.1
+
+Confusion on sub clouds
+80.60 | 67.54 93.66 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+80.60 | 67.54 93.66 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+81.00 | 67.90 94.10 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+81.00 | 67.90 94.10 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+80.21 | 66.69 93.74 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+80.21 | 66.69 93.74 
+--------------------
+
+Epoch   0, end. Min possibility = 3.1
+
+Confusion on sub clouds
+79.82 | 66.48 93.16 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+79.82 | 66.48 93.16 
+--------------------
+
+Epoch   0, end. Min possibility = 3.1
+
+Confusion on sub clouds
+80.45 | 67.21 93.69 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+80.45 | 67.21 93.69 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+80.63 | 67.48 93.78 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+80.63 | 67.48 93.78 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+81.19 | 68.56 93.83 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+81.19 | 68.56 93.83 
+--------------------
+
+Epoch   0, end. Min possibility = 3.1
+
+Confusion on sub clouds
+79.95 | 66.87 93.02 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+79.95 | 66.87 93.02 
+--------------------
+
+Epoch   0, end. Min possibility = 3.1
+
+Confusion on sub clouds
+77.64 | 62.95 92.33 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+77.64 | 62.95 92.33 
+--------------------
+
+Epoch   0, end. Min possibility = 3.1
+
+Confusion on sub clouds
+78.05 | 63.83 92.26 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+78.05 | 63.83 92.26 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+80.79 | 67.77 93.81 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+80.79 | 67.77 93.81 
+--------------------
+
+Epoch   0, end. Min possibility = 3.1
+
+Confusion on sub clouds
+81.30 | 68.73 93.87 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+81.30 | 68.73 93.87 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+78.51 | 64.20 92.81 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+78.51 | 64.20 92.81 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+78.74 | 64.40 93.08 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+78.74 | 64.40 93.08 
+--------------------
+
+Epoch   0, end. Min possibility = 3.1
+
+Confusion on sub clouds
+80.92 | 68.10 93.75 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+80.92 | 68.10 93.75 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+81.72 | 69.41 94.03 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+81.72 | 69.41 94.03 
+--------------------
+
+Epoch   0, end. Min possibility = 3.1
+
+Confusion on sub clouds
+79.80 | 66.51 93.08 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+79.80 | 66.51 93.08 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+81.23 | 68.23 94.23 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+81.23 | 68.23 94.23 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+80.64 | 67.82 93.46 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+80.64 | 67.82 93.46 
+--------------------
+
+Epoch   0, end. Min possibility = 3.1
+
+Confusion on sub clouds
+80.71 | 67.71 93.71 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+80.71 | 67.71 93.71 
+--------------------
+
+Epoch   0, end. Min possibility = 3.2
+
+Confusion on sub clouds
+79.36 | 65.53 93.18 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+79.36 | 65.53 93.18 
+--------------------
+
+Epoch   0, end. Min possibility = 3.1
+
+Confusion on sub clouds
+79.68 | 65.92 93.45 
+
+
+Reproject Vote #3
+Confusion on full clouds
+sensat_birmingham_block_9_val Acc:0.0
+sensat_birmingham_block_3_val Acc:0.0
+--------------------
+79.68 | 65.92 93.45 
+--------------------
+

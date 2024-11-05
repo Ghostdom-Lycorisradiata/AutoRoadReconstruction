@@ -1,0 +1,261 @@
+2024-02-23 17:24:39.722 [info] update#setState idle
+2024-02-23 17:24:41.095 [error] update#isLatestVersion(): failed to check for updates
+2024-02-23 17:24:41.095 [error] Error: net::ERR_PROXY_CONNECTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2024-02-23 17:25:09.725 [info] update#setState checking for updates
+2024-02-23 17:25:09.728 [error] Error: net::ERR_PROXY_CONNECTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2024-02-23 17:25:09.728 [info] update#setState idle
+2024-02-23 18:25:09.729 [info] update#setState checking for updates
+2024-02-23 18:25:09.732 [error] Error: net::ERR_PROXY_CONNECTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2024-02-23 18:25:09.733 [info] update#setState idle
+2024-02-23 19:25:09.732 [info] update#setState checking for updates
+2024-02-23 19:25:09.734 [error] Error: net::ERR_PROXY_CONNECTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2024-02-23 19:25:09.735 [info] update#setState idle
+2024-02-23 20:25:09.736 [info] update#setState checking for updates
+2024-02-23 20:25:09.738 [error] Error: net::ERR_PROXY_CONNECTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2024-02-23 20:25:09.738 [info] update#setState idle
+2024-02-23 21:25:09.738 [info] update#setState checking for updates
+2024-02-23 21:25:09.740 [error] Error: net::ERR_PROXY_CONNECTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2024-02-23 21:25:09.741 [info] update#setState idle
+2024-02-23 22:25:09.741 [info] update#setState checking for updates
+2024-02-23 22:25:09.744 [error] Error: net::ERR_PROXY_CONNECTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2024-02-23 22:25:09.744 [info] update#setState idle
+2024-02-23 23:25:09.744 [info] update#setState checking for updates
+2024-02-23 23:25:09.747 [error] Error: net::ERR_PROXY_CONNECTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2024-02-23 23:25:09.747 [info] update#setState idle
+2024-02-24 00:25:09.747 [info] update#setState checking for updates
+2024-02-24 00:25:09.749 [error] Error: net::ERR_PROXY_CONNECTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2024-02-24 00:25:09.749 [info] update#setState idle
+2024-02-24 01:25:09.750 [info] update#setState checking for updates
+2024-02-24 01:25:09.752 [error] Error: net::ERR_PROXY_CONNECTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2024-02-24 01:25:09.753 [info] update#setState idle
+2024-02-24 02:25:09.752 [info] update#setState checking for updates
+2024-02-24 02:25:09.755 [error] Error: net::ERR_PROXY_CONNECTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2024-02-24 02:25:09.755 [info] update#setState idle
+2024-02-24 03:25:09.754 [info] update#setState checking for updates
+2024-02-24 03:25:09.757 [error] Error: net::ERR_PROXY_CONNECTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2024-02-24 03:25:09.757 [info] update#setState idle
+2024-02-24 04:25:09.757 [info] update#setState checking for updates
+2024-02-24 04:25:09.759 [error] Error: net::ERR_PROXY_CONNECTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2024-02-24 04:25:09.760 [info] update#setState idle
+2024-02-24 05:25:09.759 [info] update#setState checking for updates
+2024-02-24 05:25:09.761 [error] Error: net::ERR_PROXY_CONNECTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2024-02-24 05:25:09.761 [info] update#setState idle
+2024-02-24 06:25:09.761 [info] update#setState checking for updates
+2024-02-24 06:25:09.764 [error] Error: net::ERR_PROXY_CONNECTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2024-02-24 06:25:09.764 [info] update#setState idle
+2024-02-24 07:25:09.763 [info] update#setState checking for updates
+2024-02-24 07:25:09.765 [error] Error: net::ERR_PROXY_CONNECTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2024-02-24 07:25:09.766 [info] update#setState idle
+2024-02-24 08:25:09.764 [info] update#setState checking for updates
+2024-02-24 08:25:09.766 [error] Error: net::ERR_PROXY_CONNECTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2024-02-24 08:25:09.767 [info] update#setState idle
+2024-02-24 09:25:09.769 [info] update#setState checking for updates
+2024-02-24 09:25:09.771 [error] Error: net::ERR_PROXY_CONNECTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2024-02-24 09:25:09.771 [info] update#setState idle
+2024-02-24 10:25:09.774 [info] update#setState checking for updates
+2024-02-24 10:25:09.777 [error] Error: net::ERR_PROXY_CONNECTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2024-02-24 10:25:09.777 [info] update#setState idle
+2024-02-24 11:25:09.777 [info] update#setState checking for updates
+2024-02-24 11:25:09.780 [error] Error: net::ERR_PROXY_CONNECTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2024-02-24 11:25:09.780 [info] update#setState idle
+2024-02-24 12:25:09.781 [info] update#setState checking for updates
+2024-02-24 12:25:09.784 [error] Error: net::ERR_PROXY_CONNECTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2024-02-24 12:25:09.784 [info] update#setState idle
+2024-02-24 13:25:09.785 [info] update#setState checking for updates
+2024-02-24 13:25:09.787 [error] Error: net::ERR_PROXY_CONNECTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2024-02-24 13:25:09.787 [info] update#setState idle
+2024-02-24 14:25:09.789 [info] update#setState checking for updates
+2024-02-24 14:25:09.791 [error] Error: net::ERR_PROXY_CONNECTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2024-02-24 14:25:09.791 [info] update#setState idle
+2024-02-24 15:25:09.791 [info] update#setState checking for updates
+2024-02-24 15:25:09.794 [error] Error: net::ERR_PROXY_CONNECTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2024-02-24 15:25:09.795 [info] update#setState idle
+2024-02-24 16:25:09.794 [info] update#setState checking for updates
+2024-02-24 16:25:09.798 [error] Error: net::ERR_PROXY_CONNECTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2024-02-24 16:25:09.798 [info] update#setState idle
+2024-02-24 17:25:09.795 [info] update#setState checking for updates
+2024-02-24 17:25:09.798 [error] Error: net::ERR_PROXY_CONNECTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2024-02-24 17:25:09.798 [info] update#setState idle
+2024-02-24 18:25:09.798 [info] update#setState checking for updates
+2024-02-24 18:25:09.800 [error] Error: net::ERR_PROXY_CONNECTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2024-02-24 18:25:09.800 [info] update#setState idle
+2024-02-24 19:25:09.801 [info] update#setState checking for updates
+2024-02-24 19:25:09.804 [error] Error: net::ERR_PROXY_CONNECTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2024-02-24 19:25:09.804 [info] update#setState idle
+2024-02-24 20:25:09.804 [info] update#setState checking for updates
+2024-02-24 20:25:09.807 [error] Error: net::ERR_PROXY_CONNECTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2024-02-24 20:25:09.807 [info] update#setState idle
+2024-02-24 21:25:09.805 [info] update#setState checking for updates
+2024-02-24 21:25:09.808 [error] Error: net::ERR_PROXY_CONNECTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2024-02-24 21:25:09.809 [info] update#setState idle
+2024-02-24 22:25:09.809 [info] update#setState checking for updates
+2024-02-24 22:25:09.812 [error] Error: net::ERR_PROXY_CONNECTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2024-02-24 22:25:09.812 [info] update#setState idle
+2024-02-24 23:25:09.812 [info] update#setState checking for updates
+2024-02-24 23:25:09.815 [error] Error: net::ERR_PROXY_CONNECTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2024-02-24 23:25:09.815 [info] update#setState idle
+2024-02-25 00:25:09.814 [info] update#setState checking for updates
+2024-02-25 00:25:09.816 [error] Error: net::ERR_PROXY_CONNECTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2024-02-25 00:25:09.816 [info] update#setState idle
+2024-02-25 01:25:09.815 [info] update#setState checking for updates
+2024-02-25 01:25:09.818 [error] Error: net::ERR_PROXY_CONNECTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2024-02-25 01:25:09.818 [info] update#setState idle
+2024-02-25 02:25:09.818 [info] update#setState checking for updates
+2024-02-25 02:25:09.820 [error] Error: net::ERR_PROXY_CONNECTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2024-02-25 02:25:09.820 [info] update#setState idle
+2024-02-25 03:25:09.820 [info] update#setState checking for updates
+2024-02-25 03:25:09.823 [error] Error: net::ERR_PROXY_CONNECTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2024-02-25 03:25:09.823 [info] update#setState idle
+2024-02-25 04:25:09.822 [info] update#setState checking for updates
+2024-02-25 04:25:09.824 [error] Error: net::ERR_PROXY_CONNECTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2024-02-25 04:25:09.824 [info] update#setState idle
+2024-02-25 05:25:09.823 [info] update#setState checking for updates
+2024-02-25 05:25:09.826 [error] Error: net::ERR_PROXY_CONNECTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2024-02-25 05:25:09.826 [info] update#setState idle
+2024-02-25 06:25:09.829 [info] update#setState checking for updates
+2024-02-25 06:25:09.832 [error] Error: net::ERR_PROXY_CONNECTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2024-02-25 06:25:09.832 [info] update#setState idle
+2024-02-25 07:25:09.834 [info] update#setState checking for updates
+2024-02-25 07:25:09.837 [error] Error: net::ERR_PROXY_CONNECTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2024-02-25 07:25:09.837 [info] update#setState idle
+2024-02-25 08:25:09.839 [info] update#setState checking for updates
+2024-02-25 08:25:09.842 [error] Error: net::ERR_PROXY_CONNECTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2024-02-25 08:25:09.842 [info] update#setState idle
+2024-02-25 09:25:09.842 [info] update#setState checking for updates
+2024-02-25 09:25:09.844 [error] Error: net::ERR_PROXY_CONNECTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2024-02-25 09:25:09.845 [info] update#setState idle
+2024-02-25 10:25:09.846 [info] update#setState checking for updates
+2024-02-25 10:25:09.849 [error] Error: net::ERR_PROXY_CONNECTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2024-02-25 10:25:09.849 [info] update#setState idle
+2024-02-25 11:25:09.850 [info] update#setState checking for updates
+2024-02-25 11:25:09.852 [error] Error: net::ERR_PROXY_CONNECTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2024-02-25 11:25:09.853 [info] update#setState idle
+2024-02-25 12:25:09.853 [info] update#setState checking for updates
+2024-02-25 12:25:09.855 [error] Error: net::ERR_PROXY_CONNECTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2024-02-25 12:25:09.855 [info] update#setState idle
+2024-02-25 13:25:09.856 [info] update#setState checking for updates
+2024-02-25 13:25:09.859 [error] Error: net::ERR_PROXY_CONNECTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2024-02-25 13:25:09.859 [info] update#setState idle
+2024-02-25 14:25:09.859 [info] update#setState checking for updates
+2024-02-25 14:25:09.862 [error] Error: net::ERR_PROXY_CONNECTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2024-02-25 14:25:09.863 [info] update#setState idle
+2024-02-25 15:25:09.863 [info] update#setState checking for updates
+2024-02-25 15:25:09.865 [error] Error: net::ERR_PROXY_CONNECTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2024-02-25 15:25:09.865 [info] update#setState idle
+2024-02-25 16:25:09.864 [info] update#setState checking for updates
+2024-02-25 16:25:09.867 [error] Error: net::ERR_PROXY_CONNECTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2024-02-25 16:25:09.868 [info] update#setState idle
+2024-02-25 17:25:09.868 [info] update#setState checking for updates
+2024-02-25 17:25:09.870 [error] Error: net::ERR_PROXY_CONNECTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2024-02-25 17:25:09.870 [info] update#setState idle
+2024-02-25 18:25:09.869 [info] update#setState checking for updates
+2024-02-25 18:25:09.873 [error] Error: net::ERR_PROXY_CONNECTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2024-02-25 18:25:09.873 [info] update#setState idle
+2024-02-25 19:25:09.872 [info] update#setState checking for updates
+2024-02-25 19:25:09.875 [error] Error: net::ERR_PROXY_CONNECTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2024-02-25 19:25:09.875 [info] update#setState idle
+2024-02-25 19:54:46.940 [info] Extension host with pid 25298 exited with code: 0, signal: unknown.
